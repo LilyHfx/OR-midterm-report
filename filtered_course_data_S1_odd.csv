@@ -1,0 +1,52 @@
+course_code,course_name,course_index,semester,course_label,Normal Workshop frequency,Normal Workshop Duration,Computer/Skills Workshop frequency,Computer Workshop Duration,Lecture frequency,Lecture duration by week
+MATH07003,Fundamentals of Algebra and Calculus,1,Semester 1,Course_1,Every_week,1.0,No_cs_workshop,0.0,Week11_only,0.0
+MATH10053,Applied Stochastic Differential Equations,28,Semester 1,Course_28,Every_week,1.0,Every_week,1.0,Every_week,2.0
+MATH08057,Introduction to Linear Algebra,4,Semester 1,Course_4,Every_week,1.5,No_cs_workshop,0.0,Every_week,9.0
+MATH08074,Engineering Mathematics 1a,16,Semester 1,Course_16,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH08062,Accelerated Algebra and Calculus for Direct Entry,7,Semester 1,Course_7,Every_week,2.0,No_cs_workshop,0.0,Every_week,2.0
+MATH08063,Several Variable Calculus and Differential Equations,8,Semester 1,Course_8,Every_week,1.0,No_cs_workshop,0.0,Every_week,4.0
+MATH11088,"Finance, Risk and Uncertainty",58,Semester 1,Course_58,Every_week,1.0,No_cs_workshop,0.0,Every_week,7.0
+MATH08066,Probability,11,Semester 1,Course_11,Every_week,1.0,No_cs_workshop,0.0,Every_odd_week,2.0
+MATH08068,Facets of Mathematics,12,Semester 1,Course_12,Every_week,1.5,No_cs_workshop,0.0,Every_week,1.0
+MATH08071,Accelerated Proofs and Problem Solving,13,Semester 1,Course_13,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH08072,Mathematics for the Natural Sciences 1a,14,Semester 1,Course_14,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10068,Honours Analysis,34,Semester 1,Course_34,Every_week,1.0,Every_odd_week,2.0,Every_week,2.0
+MATH08077,Introduction to Data Science,18,Semester 1,Course_18,Every_week,1.5,No_cs_workshop,0.0,Every_week,2.0
+MATH10066,Honours Differential Equations,32,Semester 1,Course_32,Every_week,1.0,Every_even_week,0.0,Every_week,3.0
+MATH10007,Stochastic Modelling,20,Semester 1,Course_20,Every_odd_week,1.0,Every_odd_week,2.0,Every_week,2.0
+MATH10010,Mathematical Education,21,Full Year,Course_21,Every_week,1.0,No_cs_workshop,0.0,Every_week,4.0
+MATH10013,Mathematical Biology,22,Semester 1,Course_22,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10017,Commutative Algebra,23,Semester 1,Course_23,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10024,"Probability, Measure & Finance",24,Full Year,Course_24,Every_week,1.0,No_cs_workshop,0.0,Every_week,4.0
+MATH10028,Theory of Statistical Inference,25,Semester 1,Course_25,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10047,Essentials in Analysis and Probability,26,Semester 1,Course_26,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10065,Fundamentals of Operational Research,31,Semester 1,Course_31,Every_even_week,0.0,No_cs_workshop,0.0,Every_even_week,0.0
+MATH07004,Introductory Mathematics with Applications,2,Semester 1,Course_2,Every_week,0.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10072,Combinatorics and Graph Theory,37,Semester 1,Course_37,Every_odd_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH11007,"Methodology, Modelling and Consulting Skills",54,Semester 1,Course_54,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10074,Geometry,39,Semester 1,Course_39,Every_even_week,0.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10076,General Topology,40,Semester 1,Course_40,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10079,Group Theory,42,Semester 1,Course_42,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10082,Linear Analysis,44,Semester 1,Course_44,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10095,Statistical Methodology,48,Semester 1,Course_48,Every_even_week,0.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10098,Numerical Linear Algebra,49,Semester 1,Course_49,Every_even_week,0.0,Every_odd_week,2.0,Every_week,2.0
+MATH10099,Entrepreneurship in the Mathematical Sciences,50,Semester 1,Course_50,Every_week,2.0,No_cs_workshop,0.0,Every_week,1.0
+MATH10100,Introduction to Partial Differential Equations,51,Semester 1,Course_51,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH10102,Statistical Case Studies,53,Full Year,Course_53,Every_week,2.0,No_cs_workshop,0.0,Every_week,4.0
+MATH11029,Stochastic Modelling,56,Semester 1,Course_56,Every_odd_week,2.0,No_cs_workshop,0.0,Every_odd_week,2.0
+MATH11053,Introduction to Lie Groups,57,Semester 1,Course_57,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH11111,Fundamentals of Optimization,59,Semester 1,Course_59,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH11144,Topics in Ring and Representation Theory,65,Semester 1,Course_65,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH11153,Discrete-Time Finance,70,Semester 1,Course_70,Every_even_week,0.0,No_cs_workshop,0.0,Every_even_week,0.0
+MATH11154,Stochastic Analysis in Finance,71,Semester 1,Course_71,,0.0,No_cs_workshop,0.0,Every_week,4.0
+MATH11176,Statistical Programming,76,Semester 1,Course_76,No_normal_workshop,0.0,Every_week,1.0,Every_week,2.0
+MATH11177,Bayesian Theory,77,Semester 1,Course_77,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH11179,Variational Calculus,78,Semester 1,Course_78,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH11187,Generalised Regression Models,82,Semester 1,Course_82,,0.0,,0.0,,0.0
+MATH11197,Research Skills for Computational Applied Mathematics,87,Full Year,Course_87,Every_week,2.0,No_cs_workshop,0.0,Every_week,6.0
+MATH11199,Python Programming,88,Semester 1,Course_88,Every_week,2.0,No_cs_workshop,0.0,Every_week,1.0
+MATH11226,Analytic Number Theory,94,Semester 1,Course_94,Every_odd_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH11230,Biostatistics,97,Semester 1,Course_97,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH11231,Industrial Mathematics,98,Semester 1,Course_98,Every_week,2.0,No_cs_workshop,0.0,Every_week,1.0
+MATH11235,Differential Geometry,100,Semester 1,Course_100,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
+MATH11236,Axiomatic Set Theory,101,Semester 1,Course_101,Every_week,1.0,No_cs_workshop,0.0,Every_week,2.0
